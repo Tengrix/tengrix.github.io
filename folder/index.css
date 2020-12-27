@@ -43,7 +43,7 @@ div{
   float: right;
   width: 125px;
   height: 35px;
-  top:0;
+  top:-1px;
   right: 0;
   position: absolute;
   text-align: center;
